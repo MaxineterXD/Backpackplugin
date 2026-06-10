@@ -85,4 +85,4 @@ The compiled JAR will be in the `target/` folder.
 
 ## Support
 
-For issues or feature requests, feel free to modify the source code or contact the development team.
+For issues or feature requests, feel free to contact the development team.
